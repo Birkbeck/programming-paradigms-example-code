@@ -15,3 +15,6 @@ g:- wr('g').
 h:- wr('h').
 
 wr(X):- write(X), nl.
+
+goal :- foo, fail.
+goal.
