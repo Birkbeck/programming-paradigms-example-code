@@ -1,0 +1,1 @@
+/Users/keith/Documents/Courses/programming-paradigms/2021-22/repo/rust-examples/essential-rust/02_01_declaring_variables/end/variables/target/debug/variables: /Users/keith/Documents/Courses/programming-paradigms/2021-22/repo/rust-examples/essential-rust/02_01_declaring_variables/end/variables/src/main.rs
